@@ -36,3 +36,8 @@ Force USB Recovery Mode:
     - Hold down the Force Recovery button, then press and release Reset (while holding down Force Recovery)
     - You can check if the board is in Recovery mode by connecting to the Jetson board via ssh and running `lsusb`.  There should be a device with vendor 'NVidia Corp'
     - Begin the flashing process on the host by pressing Enter.  This will take several minutes.
+
+
+
+
+And you can find the jetson.ino which is the code upload to the arduino!
