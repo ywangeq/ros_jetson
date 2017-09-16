@@ -63,11 +63,11 @@ Check whether terminal will show the information of version
 
 # 3.install ros (jade)
 ## 1 easy way by the shell.sh file
-<p> if you can `git clone https://git.ram-lab.com/wangyuan/ros_jetson.git` successfully, you can find a **.sh** in the sources
+<p> if you can `git clone https://github.com/ywangeq/ros_jetson.git` successfully, you can find a **.sh** in the sources
 
 -    sudo apt-get install git
 -    mkdir -p ~/catkin_ws/src; cd ~/catkin_ws/src  
--    git clone https://git.ram-lab.com/wangyuan/ros_jetson.git
+-    git clone https://github.com/ywangeq/ros_jetson.git
 ###### (i am not sure this rep is open to you)  
 > make sure you download this file in `catkin_ws/src` by `cd ~/catkin_ws/src`
 <p> and directly run the shell by `sudo ./rosjet_install.sh`
